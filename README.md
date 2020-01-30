@@ -8,9 +8,6 @@ To display Text, give user the abitlity to change text colour, background colour
 ### App Walk-though
 https://recordit.co/KcwIr3S4bX
 
-<img src="https://recordit.co/KcwIr3S4bX" width=200><br>
-![Alt Text](https://recordit.co/KcwIr3S4bX)
-`TODO://` In the User stories section below, add an `x` between the `-[ ]` like this `- [x]` for any user story you complete. (☝️ Remove this paragraph after after checking off user stories)
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
