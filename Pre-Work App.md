@@ -7,7 +7,7 @@ To display Text, give user the abitlity to change text colour, background colour
 
 ### App Walk-though
 https://recordit.co/KcwIr3S4bX
-
+<img src="http://g.recordit.co/KcwIr3S4bX.gif" width=200><br>
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
