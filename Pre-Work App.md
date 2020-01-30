@@ -6,7 +6,6 @@ The Pre-work required
 To display Text, give user the abitlity to change text colour, background colour and text as well as reset all changes
 
 ### App Walk-though
-https://recordit.co/KcwIr3S4bX
 <img src="http://g.recordit.co/KcwIr3S4bX.gif" width=200><br>
 
 ### Required User Stories
